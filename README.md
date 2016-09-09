@@ -11,4 +11,3 @@ Liste des membres de l'équipe 6
 8. Laurent Goulet Garneau
 9. Eugénie Constance Tchayo
 
-ul-glo4002-a16-equipe6 
