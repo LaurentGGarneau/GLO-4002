@@ -11,5 +11,6 @@ Liste des membres de l'équipe 6
 8. Laurent Goulet Garneau
 9. Eugénie Constance Tchayo
 
+
 # Projet de session GLO-4002
 
